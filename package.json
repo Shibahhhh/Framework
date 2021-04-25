@@ -1,7 +1,7 @@
 {
-  "name": "alien",
+  "name": "Framework",
   "version": "1.0.0",
-  "description": "alien bot",
+  "description": "Framework based on commando",
   "main": "index.js",
   "scripts": {
     "devStart": "nodemon index.js",
